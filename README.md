@@ -20,6 +20,10 @@ Seguir fortaleciendo mi perfil técnico mientras combino la ingeniería industri
 ## ✉️ Contacto
 ✨ GitHub: jennifervega-jpg
 
+### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
 ![website](https://img.shields.io/website?url=http%3A%2F%2Fjennifervega.com&down_message=Jenn&style=flat-square)
 
 ![Github commit activity](https://img.shields.io/github/commit-activity/m/jennifervega-jpg/jennifervega-jpg)
